@@ -9,18 +9,18 @@ public class Hello {
 	       System.out.println("hellow world");
 	       System.out.println("hello , hii git hub");
 		       
-//	         System.out.println("-----------Arthematic operators-------");
-//	         int a = 10;
-//	         int b = 20;
-//	         System.out.println("sum of the two numbers ="+(a+b));
-//	         System.out.println("sub of the two numbers ="+(a-b));
-//	         System.out.println("mul of the two numbers ="+(a*b));
-//	         System.out.println("div of the two numbers ="+(a/b));
-//	         System.out.println("Reminder of the two numbers ="+(a%b));
-//	         System.out.println("----------------get the input from end user-------");
+	         System.out.println("-----------Arthematic operators-------");
+	         int a = 10;
+	         int b = 20;
+	         System.out.println("sum of the two numbers ="+(a+b));
+	         System.out.println("sub of the two numbers ="+(a-b));
+	         System.out.println("mul of the two numbers ="+(a*b));
+	         System.out.println("div of the two numbers ="+(a/b));
+	         System.out.println("Reminder of the two numbers ="+(a%b));
+	         System.out.println("----------------get the input from end user-------");
 	         Scanner sc =  new Scanner(System.in);
 //	         System.out.println("Enter Name,Age and Salary");
-//	         
+	         
 //	         String name = sc.nextLine();
 //	         int age = sc.nextInt();
 //	         double salary =sc.nextDouble();
